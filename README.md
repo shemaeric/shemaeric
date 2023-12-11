@@ -14,7 +14,7 @@
 - 🌐 📱 💡: Diverse range of projects spanning web, mobile, and algorithm development.
 - 🤓: Curious mind, always exploring new tech trends and tools.
 - 🗣️: Active tech community member: engagement, forums, and tech talks
-- 🤔: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- 🤔: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1n04j9RD7AERZI6gnDb3Wt2Q80sQkdPgK/view?usp=sharing).
 - 📧: Contact me: `+250782251664` or `shemaeric01@gmail.com`.
 
 <br>

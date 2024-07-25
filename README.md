@@ -10,7 +10,7 @@
 <br>
 
 - 🏫: I am a `Senior Full Stack and iOS Engineer` at [QT Global Software Ltd](https://qtglobal.rw/)
-- 🚀: I love using Software to solve real world pro `Problem`.
+- 🚀: I love using Software to solve real world problems.
 - 🌐 📱 💡: Diverse range of projects spanning web, mobile, and algorithm development.
 - 🤓: Curious mind, always exploring new tech trends and tools.
 - 🗣️: Active tech community member: engagement, forums, and tech talks
